@@ -61,7 +61,7 @@ LOFYGANG Discord Tools é uma ferramenta poderosa desenvolvida em Node.js que of
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/lofygang-discord-tools.git
+git clone https://github.com/dwagwa617-wq/lofygang-discord-tools.git
 cd lofygang-discord-tools
 ```
 
@@ -182,19 +182,6 @@ Remove a badge de Hypesquad do seu perfil.
 
 ---
 
-## 🔧 Tecnologias
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/) - Runtime JavaScript
-- [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) - Biblioteca Discord selfbot
-- [got](https://github.com/sindresorhus/got) - Cliente HTTP
-- [chalk](https://github.com/chalk/chalk) - Estilização de terminal
-- [@discordjs/voice](https://github.com/discordjs/voice) - Suporte a canais de voz
-- [selfbot-lofy](https://www.npmjs.com/package/selfbot-lofy) - Utilitários selfbot
-
----
-
 ## 📝 Como obter o Token do Discord
 
 1. Abra o Discord no navegador (discord.com/app)
@@ -254,7 +241,7 @@ Este projeto está sob a licença ISC.
 
 ## 👨‍💻 Autor
 
-Desenvolvido com 💜 por LOFYGANG
+Desenvolvido com 💜 por Console
 
 ---
 
