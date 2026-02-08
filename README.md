@@ -61,8 +61,8 @@ LOFYGANG Discord Tools é uma ferramenta poderosa desenvolvida em Node.js que of
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/dwagwa617-wq/lofygang-discord-tools.git
-cd lofygang-discord-tools
+git clone https://github.com/dwagwa617-wq/Lofy-Selfbot.git
+cd Lofy-Selfbot
 ```
 
 2. **Instale as dependências**
@@ -165,20 +165,18 @@ Adiciona uma badge de Hypesquad ao seu perfil.
 ### 5️⃣ Remove Hypesquad
 Remove a badge de Hypesquad do seu perfil.
 
+
 ---
 
-## ⚠️ Aviso Legal
+## 🔧 Tecnologias
 
-> **ATENÇÃO:** Este projeto utiliza selfbots, o que **viola os Termos de Serviço do Discord**.
-> 
-> O uso de selfbots pode resultar em:
-> - ⚠️ Suspensão da conta
-> - ⚠️ Banimento permanente
-> - ⚠️ Perda de acesso a servidores
->
-> **Use por sua conta e risco!** Este projeto é apenas para fins educacionais.
->
-> Os desenvolvedores não se responsabilizam por qualquer consequência do uso desta ferramenta.
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/) - Runtime JavaScript
+- [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) - Biblioteca Discord selfbot
+- [got](https://github.com/sindresorhus/got) - Cliente HTTP
+- [chalk](https://github.com/chalk/chalk) - Estilização de terminal
+- [@discordjs/voice](https://github.com/discordjs/voice) - Suporte a canais de voz
 
 ---
 
