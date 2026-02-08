@@ -1,7 +1,7 @@
 {
-  "name": "teste",
+  "name": "selfbot",
   "version": "1.0.0",
-  "description": "Discord selfbot tools - message cleaner, server cloner, voice channel joiner",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "selfbot",
     "tools"
   ],
-  "author": "",
+  "author": "consolelofy",
   "license": "ISC",
   "dependencies": {
     "got": "^12.6.1",
@@ -21,6 +21,10 @@
     "discord.js-selfbot-v13": "^2.14.12",
     "@discordjs/voice": "^0.16.0",
     "selfbot-lofy": "latest",
-    "debug": "^4.3.4"
+    "debug": "^4.3.4",
+    "libsodium-wrappers": "^0.7.13",
+    "@discordjs/opus": "^0.9.0",
+    "ffmpeg-static": "^5.2.0",
+    "ws": "^8.16.0"
   }
 }
